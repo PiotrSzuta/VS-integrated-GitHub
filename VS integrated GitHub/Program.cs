@@ -10,6 +10,7 @@ namespace VS_integrated_GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dzisiaj mamy {0}", DateTime.Now.ToString());
         }
     }
 }
